@@ -1,0 +1,85 @@
+{
+  "bookData": [
+    {
+      "id": 1,
+      "bookName": "Getting Things Done",
+      "author": "David Allen",
+      "price": 399,
+      "publication": "Wall Street Journal"
+    },
+    {
+      "id": 2,
+      "bookName": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 499,
+      "publication": "Robert Books"
+    },
+    {
+      "id": 3,
+      "bookName": "Atomic Habits",
+      "author": "James Clear ",
+      "price": 319,
+      "publication": "James Books"
+    },
+    {
+      "id": 4,
+      "bookName": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 263,
+      "publication": "Amazon's Morgan Housel"
+    },
+    {
+      "id": 5,
+      "bookName": "The Warren Buffett Way",
+      "author": " Warren Buffett",
+      "price": 450,
+      "publication": "American EXpress"
+    },
+    {
+      "id": 6,
+      "bookName": "Becoming Steve Jobs",
+      "author": "Brent Schlender",
+      "price": 450,
+      "publication": "Apple book publication"
+    }
+  ],
+  "userData": [
+    {
+      "id": 1,
+      "name": "Joydeep mondal",
+      "email": "joydeep@gmail.com",
+      "contact": "9845920878"
+    },
+    {
+      "id": 2,
+      "name": "Kushal Baragi",
+      "email": "Kushalbaragi83@gmail.com",
+      "contact": "9880095140"
+    },
+    {
+      "id": 3,
+      "name": "Raja Kohaluri",
+      "email": "Rajakohaluri73@gmail.com",
+      "contact": "1234567890"
+    },
+    {
+      "id": 4,
+      "name": "Madhu sudhan",
+      "email": "Madhusudhan@gmail.com",
+      "contact": "0987654321"
+    },
+    {
+      "id": 5,
+      "name": "Hari Babu Mulugu",
+      "email": "Haribabu@gmail.com",
+      "contact": "5432167890"
+    },
+    {
+      "id": 6,
+      "name": "Dipankar Mahato",
+      "email": "Dipankarmahato3@gmail.com",
+      "contact": "0987612345"
+    }
+  ],
+  "issueData": []
+}
